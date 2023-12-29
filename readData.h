@@ -5,9 +5,9 @@
 //                              +++ PARTIE À MODIFIER PAR L'UTILISATEUR +++
 
 // *** Chemin vers le dossier ou sont stockées toutes les données ***
-#define CHEMIN "/home/adam/Documents/ISMIN/AlgoProg/SEBTI_ZBIRI_PROJET/training/"
+#define CHEMIN "/home/adam/Documents/ISMIN/1A/algoprog/SEBTI_ZBIRI_PROJET/training/"
 // *** CHemin vers l'endroit où on veut sauvegarder les résultats
-#define CHEMIN2 "/home/adam/Documents/ISMIN/AlgoProg/SEBTI_ZBIRI_PROJET/output/"
+#define CHEMIN2 "/home/adam/Documents/ISMIN/1A/algoprog/SEBTI_ZBIRI_PROJET/output/"
 
 /*--------------------------------------------------------------------------------------------------------*/
 
