@@ -34,9 +34,13 @@
 
  5 - SCREENSHOTS
  <p align="center">
-  <img src="screenshots/1.png" height="70" >
+  <img src="screenshots/1.png" height="100" >
   <br>
-  <img src="screenshots2.png" height="70" >
+  <img src="screenshots/2.png" height="100" >
+  <br>
+  <img src="screenshots/3.png" height="100" >
+  <br>
+  <img src="screenshots/4.png" height="100" >
 </p>
 
   
