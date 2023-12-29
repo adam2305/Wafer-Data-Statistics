@@ -1,5 +1,5 @@
 
- 											DOCUMENT EXPLICATIF DU PROGRAMME
+ #DOCUMENT EXPLICATIF DU PROGRAMME
  
  1 - EXÉCUTER LE PROGRAMME 
  
@@ -31,9 +31,17 @@
  	* AGGRÉGATION PAR WAFER :	On peut tout d'abord afficher tous les wafers différents présents dans tous les fichiers.
  					On peut ensuite afficher les moyenne de chaque variable relative à un wafer précis
  					On peut enfin sauvegarder toutes les données sur tous les wafer dans un seul fichier
- 	
+
+ 5 - SCREENSHOTS
+ <p align="center">
+  <img src="screenshots/1.png" height="70" >
+  <br>
+  <img src="screenshots2.png" height="70" >
+</p>
+
+  
  
- 3 - BUGS CONNUS
+ 4 - BUGS CONNUS
  	
  	* BUG1 : Si on écrit une lettre au lieux d'un chiffre lors de la navigation dans les menus le programme crash et il fait tout arrêter avec crtl+c.
  		Mais si on écrit un chiffre d'un menu qui n'existe pas le programme est capable de prendre en compte l'erreur
