@@ -40,7 +40,7 @@
   <br>
   <img src="screenshots/3.png" height="100" >
   <br>
-  <img src="screenshots/4.png" height="200" >
+  <img src="screenshots/4.png" height="300" >
 </p>
 
   
